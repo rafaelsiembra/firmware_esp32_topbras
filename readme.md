@@ -1,2 +1,6 @@
 # Firmware Topbras
-Arquivo inicial para criar commit.
+Equipamentos:
+- Estufa 1
+- Estufa 2
+- Forno 1
+- Forno 2
